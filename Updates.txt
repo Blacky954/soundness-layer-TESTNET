@@ -1,3 +1,4 @@
 Knights tour starts
 first game 1 on (5 x 1) 
 second game 1 on (3 x 5)
+third game 1 on (2 x 4)
